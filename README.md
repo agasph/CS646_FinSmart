@@ -7,6 +7,7 @@ CS646 FinSMART is a structured project for financial document retrieval, reranki
 ## **Project Structure**
 
 The repository is organized into the following directories and files:
+'''
 | financerag/                     # Main module directory
 │   ├── common/                   # Common utility functions
 │   ├── generate/                 # Code for response generation
@@ -20,8 +21,7 @@ The repository is organized into the following directories and files:
 ├── requirements.txt              # Python dependencies
 ├── hybrid.ipynb                  # Code for hybrid score computation
 └── generation.ipynb              # Code for response generation
-
-
+'''
 ### **Key Components**
 
 1. **`financerag/`**
